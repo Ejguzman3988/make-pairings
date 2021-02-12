@@ -9,7 +9,7 @@ var sgData = [
 		time: '11:00 am',
 		weekToStart: 2,
 		weekToEnd: 2,
-		zoom: 'https://flatironschool.zoom.us/j/93581559641?pwd=R09wZThzTGtUMmY5ck84OTkwZFhIdz09',
+		zoom: 'https://flatironschool.zoom.us/j/96807146556?pwd=YnZod3ZpM0NSSVZLczZYNVlRaFAyQT09',
     },
     {
 		categories: [],
@@ -19,7 +19,7 @@ var sgData = [
 		time: '11:00 am',
 		weekToStart: 2,
 		weekToEnd: 2,
-		zoom: 'https://flatironschool.zoom.us/j/93581559641?pwd=R09wZThzTGtUMmY5ck84OTkwZFhIdz09',
+		zoom: 'https://flatironschool.zoom.us/j/96807146556?pwd=YnZod3ZpM0NSSVZLczZYNVlRaFAyQT09',
     },
     {
 		categories: [],
@@ -29,7 +29,7 @@ var sgData = [
 		time: '11:00 am',
 		weekToStart: 2,
 		weekToEnd: 2,
-		zoom: 'https://flatironschool.zoom.us/j/93581559641?pwd=R09wZThzTGtUMmY5ck84OTkwZFhIdz09',
+		zoom: 'https://flatironschool.zoom.us/j/96807146556?pwd=YnZod3ZpM0NSSVZLczZYNVlRaFAyQT09',
     },
     {
 		categories: [],
@@ -39,37 +39,37 @@ var sgData = [
 		time: '11:00 am',
 		weekToStart: 2,
 		weekToEnd: 2,
-		zoom: 'https://flatironschool.zoom.us/j/4666475163?pwd=bWp5VFJYdVg3ckczczRmZkllbkhSdz09',
+		zoom: 'https://flatironschool.zoom.us/j/91867186499?pwd=QlgzTEJLLzJPeHdZbW1mTllSc0ZTUT09',
     },
     {
 		categories: [],
 		title: '[0908 Full Time] Live Lecture - Using Fetch',
 		description: 'Come join.',
-		day: 'Monday',
+		day: 'Tuesday',
 		time: '11:00 am',
 		weekToStart: 3,
 		weekToEnd: 3,
-		zoom: 'https://flatironschool.zoom.us/j/93581559641?pwd=R09wZThzTGtUMmY5ck84OTkwZFhIdz09',
+		zoom: 'https://flatironschool.zoom.us/j/96807146556?pwd=YnZod3ZpM0NSSVZLczZYNVlRaFAyQT09',
     },
     {
 		categories: [],
 		title: '[0908 Full Time] Live Lecture - Building a Rails API',
 		description: 'Come join.',
-		day: 'Tuesday',
+		day: 'Wednesday',
 		time: '11:00 am',
 		weekToStart: 3,
 		weekToEnd: 3,
-		zoom: 'https://flatironschool.zoom.us/j/93581559641?pwd=R09wZThzTGtUMmY5ck84OTkwZFhIdz09',
+		zoom: 'https://flatironschool.zoom.us/j/96807146556?pwd=YnZod3ZpM0NSSVZLczZYNVlRaFAyQT09',
     },
     {
 		categories: [],
 		title: '[0908 Full Time] Live Lecture - Putting it all Together (update/destroy; JS Array methods)',
 		description: 'Come join.',
-		day: 'Wednesday',
+		day: 'Thursday',
 		time: '11:00 am',
 		weekToStart: 3,
 		weekToEnd: 3,
-		zoom: 'https://flatironschool.zoom.us/j/93581559641?pwd=R09wZThzTGtUMmY5ck84OTkwZFhIdz09',
+		zoom: 'https://flatironschool.zoom.us/j/96807146556?pwd=YnZod3ZpM0NSSVZLczZYNVlRaFAyQT09',
     },
     {
 		categories: [],
@@ -79,7 +79,7 @@ var sgData = [
 		time: '11:00 am',
 		weekToStart: 3,
 		weekToEnd: 3,
-		zoom: 'https://flatironschool.zoom.us/j/4666475163?pwd=bWp5VFJYdVg3ckczczRmZkllbkhSdz09',
+		zoom: 'https://flatironschool.zoom.us/j/91867186499?pwd=QlgzTEJLLzJPeHdZbW1mTllSc0ZTUT09',
     },
     {
 		categories: [],
@@ -89,7 +89,7 @@ var sgData = [
 		time: '11:00 am',
 		weekToStart: 4,
 		weekToEnd: 4,
-		zoom: 'https://flatironschool.zoom.us/j/93581559641?pwd=R09wZThzTGtUMmY5ck84OTkwZFhIdz09',
+		zoom: 'https://flatironschool.zoom.us/j/96807146556?pwd=YnZod3ZpM0NSSVZLczZYNVlRaFAyQT09',
     },
     {
 		categories: [],
@@ -99,7 +99,7 @@ var sgData = [
 		time: '11:00 am',
 		weekToStart: 4,
 		weekToEnd: 4,
-		zoom: 'https://flatironschool.zoom.us/j/93581559641?pwd=R09wZThzTGtUMmY5ck84OTkwZFhIdz09',
+		zoom: 'https://flatironschool.zoom.us/j/96807146556?pwd=YnZod3ZpM0NSSVZLczZYNVlRaFAyQT09',
     },
     {
 		categories: [],
@@ -109,7 +109,7 @@ var sgData = [
 		time: '11:00 am',
 		weekToStart: 4,
 		weekToEnd: 4,
-		zoom: 'https://flatironschool.zoom.us/j/93581559641?pwd=R09wZThzTGtUMmY5ck84OTkwZFhIdz09',
+		zoom: 'https://flatironschool.zoom.us/j/96807146556?pwd=YnZod3ZpM0NSSVZLczZYNVlRaFAyQT09',
     },
     {
 		categories: [],
@@ -119,7 +119,7 @@ var sgData = [
 		time: '11:00 am',
 		weekToStart: 4,
 		weekToEnd: 4,
-		zoom: 'https://flatironschool.zoom.us/j/4666475163?pwd=bWp5VFJYdVg3ckczczRmZkllbkhSdz09',
+		zoom: 'https://flatironschool.zoom.us/j/91867186499?pwd=QlgzTEJLLzJPeHdZbW1mTllSc0ZTUT09',	
     }
 ];
 

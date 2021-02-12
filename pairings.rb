@@ -14,39 +14,26 @@ def factor(list)
 end
 
 names = [
-'Adriana DiPietro',
-'Alexander Darvin',
 'Ariel Ibarra',
-'Brandon Gerbasi',
 'Brock Byrd',
-'Bryan Cervantes',
 'Cailin Kless',
-'Carissa Sarreal',
+# 'Chibuisi	Enyia',
 'Christina Howard',
 'CJ Davis',
-'Conner Fortner',
-'Daniyella Harmon',
 'Dasha Kondratyeva',
-'David Mills',
+'David Hutchinson',
 'Eli Huebner',
-'Ghamdan Mohsin',
-'Janet Kim',
+'Gabriela Johnson',
 'Jessica Watts',
-# 'John Zonneveld',
+'John Zonneveld',
 'Kayla Budzeak',
-'Latisha Joe',
 'Leah Schlackman',
-# 'Leon Huggins',
-'Mallory Johnson',
-'Matthew Thomas',
 'Moose Davis',
+'Nadav Schwartz',
 'QueenTesa Fuggett',
-'Rachel Gauna',
-'Rocio Batres',
-'Tabatha Roman',
-'Taylor Booth',
-'Travis Lee',
-'Valeria Copleman',
+'Ryan Huber',
+'Shirlen Detablan',
+'Tesfaye Atomsa'
 ]
 
 slow_names = [
@@ -83,6 +70,4 @@ end
 # sets2[week_index2].each do |pair|
 #     puts "| #{pair[0]}   | #{pair[1]}    |"
 # end
-
-
 

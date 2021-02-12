@@ -3,7 +3,7 @@ var sgDataProjectWeek = [
     {
 		categories: [],
 		title: '[0908 Full Time] Open Office Hours',
-		description: 'Come join.',
+    description: 'Come join.',
 		day: 'Monday',
 		time: '11:00 am',
 		weekToStart: 2,
@@ -88,7 +88,7 @@ var sgDataProjectWeek = [
 		time: '11:00 am',
 		weekToStart: 2,
 		weekToEnd: 2,
-		zoom: 'https://flatironschool.zoom.us/j/4666475163?pwd=bWp5VFJYdVg3ckczczRmZkllbkhSdz09',
+		zoom: 'https://flatironschool.zoom.us/j/91867186499?pwd=QlgzTEJLLzJPeHdZbW1mTllSc0ZTUT09',
     },
     {
       categories: [],
@@ -99,5 +99,6 @@ var sgDataProjectWeek = [
       weekToStart: 2,
       weekToEnd: 2,
       zoom: 'https://flatironschool.zoom.us/j/4666475163?pwd=bWp5VFJYdVg3ckczczRmZkllbkhSdz09',
+      
     }
 ];

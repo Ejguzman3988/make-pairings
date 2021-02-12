@@ -9,7 +9,7 @@ var sgData = [
 		time: '11:00 am',
 		weekToStart: 3,
 		weekToEnd: 3,
-		zoom: 'https://flatironschool.zoom.us/j/93581559641?pwd=R09wZThzTGtUMmY5ck84OTkwZFhIdz09',
+		zoom: 'https://flatironschool.zoom.us/j/96807146556?pwd=YnZod3ZpM0NSSVZLczZYNVlRaFAyQT09',
     },
     {
 		categories: [],
@@ -19,7 +19,7 @@ var sgData = [
 		time: '11:00 am',
 		weekToStart: 3,
 		weekToEnd: 3,
-		zoom: 'https://flatironschool.zoom.us/j/93581559641?pwd=R09wZThzTGtUMmY5ck84OTkwZFhIdz09',
+		zoom: 'https://flatironschool.zoom.us/j/96807146556?pwd=YnZod3ZpM0NSSVZLczZYNVlRaFAyQT09',
     },
     {
 		categories: [],
@@ -29,7 +29,7 @@ var sgData = [
 		time: '11:00 am',
 		weekToStart: 3,
 		weekToEnd: 3,
-		zoom: 'https://flatironschool.zoom.us/j/93581559641?pwd=R09wZThzTGtUMmY5ck84OTkwZFhIdz09',
+		zoom: 'https://flatironschool.zoom.us/j/96807146556?pwd=YnZod3ZpM0NSSVZLczZYNVlRaFAyQT09',
     },
     {
 		categories: [],
